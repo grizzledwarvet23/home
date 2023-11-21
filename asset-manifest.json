@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.01551907.js",
+    "main.js": "/home/static/js/main.84e84a83.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
     "static/media/zaypic2.jpg": "/home/static/media/zaypic2.9b97f1ec8be7cb80bd27.jpg",
-    "static/media/zaypic.jpg": "/home/static/media/zaypic.d14c40b30fd7c2382189.jpg",
+    "static/media/opus.png": "/home/static/media/opus.e8dc4ee8fd6ef85ea5de.png",
+    "static/media/riceguard.png": "/home/static/media/riceguard.2b476768fb4aca2356b1.png",
     "static/media/trend.png": "/home/static/media/trend.950492d4bd2c2ca9f40b.png",
     "static/media/texasconvergent.png": "/home/static/media/texasconvergent.4f3c23726cac6d983ed9.png",
+    "static/media/wildgambling.png": "/home/static/media/wildgambling.fd89027bb957500423bb.png",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.01551907.js.map": "/home/static/js/main.01551907.js.map",
+    "main.84e84a83.js.map": "/home/static/js/main.84e84a83.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.01551907.js"
+    "static/js/main.84e84a83.js"
   ]
 }
