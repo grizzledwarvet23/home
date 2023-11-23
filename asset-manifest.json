@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.c482f485.css",
-    "main.js": "/home/static/js/main.fb618a84.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/mycorrhizae.png": "/home/static/media/mycorrhizae.56ddd5f6debb3190de2f.png",
-    "static/media/riceguard.png": "/home/static/media/riceguard.aa424fb5a3aee0ae51e4.png",
-    "static/media/megamicro.png": "/home/static/media/megamicro.e2097e09e5547bd745b4.png",
-    "static/media/zaypic2.jpg": "/home/static/media/zaypic2.9b97f1ec8be7cb80bd27.jpg",
-    "static/media/opus.png": "/home/static/media/opus.e8dc4ee8fd6ef85ea5de.png",
-    "static/media/trend.png": "/home/static/media/trend.950492d4bd2c2ca9f40b.png",
-    "static/media/texasconvergent.png": "/home/static/media/texasconvergent.4f3c23726cac6d983ed9.png",
-    "static/media/wildgambling.png": "/home/static/media/wildgambling.fd89027bb957500423bb.png",
-    "static/media/jumpspace.png": "/home/static/media/jumpspace.b4ed2cedb3f697152ef7.png",
-    "index.html": "/home/index.html",
-    "main.c482f485.css.map": "/home/static/css/main.c482f485.css.map",
-    "main.fb618a84.js.map": "/home/static/js/main.fb618a84.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/static/css/main.c482f485.css",
+    "main.js": "/static/js/main.4dec62ab.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/mycorrhizae.png": "/static/media/mycorrhizae.56ddd5f6debb3190de2f.png",
+    "static/media/riceguard.png": "/static/media/riceguard.aa424fb5a3aee0ae51e4.png",
+    "static/media/megamicro.png": "/static/media/megamicro.e2097e09e5547bd745b4.png",
+    "static/media/zaypic2.jpg": "/static/media/zaypic2.9b97f1ec8be7cb80bd27.jpg",
+    "static/media/opus.png": "/static/media/opus.e8dc4ee8fd6ef85ea5de.png",
+    "static/media/trend.png": "/static/media/trend.950492d4bd2c2ca9f40b.png",
+    "static/media/texasconvergent.png": "/static/media/texasconvergent.4f3c23726cac6d983ed9.png",
+    "static/media/wildgambling.png": "/static/media/wildgambling.fd89027bb957500423bb.png",
+    "static/media/jumpspace.png": "/static/media/jumpspace.b4ed2cedb3f697152ef7.png",
+    "index.html": "/index.html",
+    "main.c482f485.css.map": "/static/css/main.c482f485.css.map",
+    "main.4dec62ab.js.map": "/static/js/main.4dec62ab.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c482f485.css",
-    "static/js/main.fb618a84.js"
+    "static/js/main.4dec62ab.js"
   ]
 }
